@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+void greet(char name[]) {
+    printf("Hello, %s! Welcome to our program.\n", name);
+}
+
 int main() {
-    printf("Hello, World!\n");
+    greet("Rakesh");
     return 0;
 }
