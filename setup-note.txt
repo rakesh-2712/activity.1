@@ -1,0 +1,9 @@
+Setup Note
+
+I configured Visual Studio Code as my development environment for programming.
+The required C/C++ extension was installed and configured successfully.
+The compiler was verified through the terminal using the version command.
+I created and tested a C program that displays Hello, World!.
+The C program was compiled and executed successfully without errors.
+I also compiled and executed a C++ Hello World program successfully.
+The development environment is working correctly for writing, compiling, and running programs.
